@@ -1,5 +1,6 @@
 *{
     background: hsl(212, 45%, 89%);
+    font-family: 'Source Code Pro', monospace;
 }
 .inner-card{
     margin-top: 25%;
@@ -18,7 +19,7 @@ img {
 
 h2 {
     background: hsl(0, 0%, 100%);
-    font-family: 'Source Code Pro', monospace;
+    
     font-size: 15px;
     font-style: Bold;
     color: hsl(218, 44%, 22%);
@@ -33,7 +34,7 @@ strong {
 
 h3 {
     background: hsl(0, 0%, 100%);
-    font-family: 'Source Code Pro', monospace;
+    
     font-weight: 400;
     font-size: 11px;
     text-align: center;
