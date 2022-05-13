@@ -19,13 +19,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-  ![](images\qr-code-desktop.PNG)
+  ![image](images\qr-code-desktop.PNG)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://your-solution-url.com)
+- Live Site URL: [Live site URL](https://your-live-site-url.com)
 
 ## My process
 - First, I worked on the mobile version, and then I realized that the main part of the card was the same thing. 
@@ -56,12 +56,12 @@ I only used basic CSS such as margins, padding, font size and border-radius. I l
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - This helped me learn the media queries part, to be able to do both the mobile and desktop component. 
+- [W3schools](https://www.w3schools.com/) - This helped me learn the media queries part, to be able to do both the mobile and desktop component. 
 
 
 ## Author
 
-- Website - [Add your name here](https://viha123.github.io/index.html)
+- Website - [Personal Website](https://viha123.github.io/index.html)
 - Frontend Mentor - [@Viha123](https://www.frontendmentor.io/profile/Viha123)
 
 
