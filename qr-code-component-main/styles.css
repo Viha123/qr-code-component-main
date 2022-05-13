@@ -1,42 +1,56 @@
 *{
     background: hsl(212, 45%, 89%);
 }
+.inner-card{
+    margin-top: 25%;
+    margin-left: 35%;
+    width: 250px;
+    border-radius: 5%;
+    background: hsl(0, 0%, 100%);
+}
+
+img {
+    margin-left: 5%;
+    margin-top: 5%;
+    width: 230px;
+    height: 230px;
+    border-radius: 5%;
+}
+h2 {
+    background: hsl(0, 0%, 100%);
+    font-family: 'Source Code Pro', monospace;
+    font-size: 15px;
+    font-style: Bold;
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+}
+
+strong {
+    background: hsl(0, 0%, 100%);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h3 {
+    background: hsl(0, 0%, 100%);
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 400;
+    font-size: 11px;
+    text-align: center;
+    border-radius: 5%;
+    padding-bottom: 15%;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
 @media screen and (max-width: 375px){
 
-    img{
-        margin-left: 25%;
-        margin-right: 25%;
-        margin-top: 15%;
-        width: 100px;
-        height: 100px;
-        border-radius: 5%;
-    }
     .inner-card{
         margin-top: 25%;
         margin-left: 10%;
         margin-right: 10%;
         border-radius: 5%;
         background: hsl(0, 0%, 100%);
-    }
-    h2{
-        font-family: 'Outfit', sans-serif;
-        background: hsl(0, 0%, 100%);
-        font-family: 'Source Code Pro', monospace;
-        font-size: 15px;
-        font-weight: 700;
-        text-align: center;
-    }
-    bold{
-        background: hsl(0, 0%, 100%);
-    }
-    h3{
-        background: hsl(0, 0%, 100%);
-        font-family: 'Source Code Pro', monospace;
-        font-size: 15px;
-        font-weight: 400;
-        text-align: center;
-        border-radius: 5%;
-    }
 
-
+    }
 }
