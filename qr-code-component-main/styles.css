@@ -8,14 +8,14 @@
     border-radius: 5%;
     background: hsl(0, 0%, 100%);
 }
-
 img {
-    margin-left: 5%;
+    margin-left: 4%;
     margin-top: 5%;
     width: 230px;
     height: 230px;
     border-radius: 5%;
 }
+
 h2 {
     background: hsl(0, 0%, 100%);
     font-family: 'Source Code Pro', monospace;
@@ -51,6 +51,5 @@ h3 {
         margin-right: 10%;
         border-radius: 5%;
         background: hsl(0, 0%, 100%);
-
     }
 }
