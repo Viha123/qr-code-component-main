@@ -3,8 +3,8 @@
     font-family: 'Source Code Pro', monospace;
 }
 .inner-card{
-    margin-top: 25%;
-    margin-left: 35%;
+    margin-top: 10vh;
+    margin-left: 35vw;
     width: 250px;
     border-radius: 5%;
     background: hsl(0, 0%, 100%);
